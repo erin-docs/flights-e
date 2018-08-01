@@ -1,6 +1,6 @@
 connection: "faa_redshift"
 
-# include all the - hoping for conflict - views
+# include all the - dang it is working for conflict - views
 include: "*.view"
 
 datagroup: e_flights_default_datagroup {
