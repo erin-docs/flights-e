@@ -39,6 +39,7 @@ view: flights {
     type: time
     timeframes: [
       raw,
+      minute,
       time,
       date,
       week,
